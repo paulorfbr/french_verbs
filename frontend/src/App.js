@@ -22,7 +22,7 @@ function App() {
 
   const handleSearch = async () => {
     setLoading(true);
-    let url = 'http://{YOUR_DOMAIN_HERE}:3001/api/verbs?';
+    let url = 'http://localhost:3001/api/verbs?';
     if (mode === 'verb') {
       url += `search=${encodeURIComponent(search)}`;
     } else {
