@@ -27,3 +27,5 @@ frontend/build/
 *.swo
 .idea/
 .vscode/ 
+# Ignore mcp.json
+mcp.json 
