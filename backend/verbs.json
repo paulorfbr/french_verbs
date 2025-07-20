@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "parler",
+    "preposition": "à",
+    "examples": [
+      "Je parle à mon ami.",
+      "Elle parle à son professeur."
+    ]
+  },
+  {
+    "verb": "avoir besoin",
+    "preposition": "de",
+    "examples": [
+      "J'ai besoin de dormir.",
+      "Elle a besoin de toi."
+    ]
+  },
+  {
+    "verb": "penser",
+    "preposition": "à",
+    "examples": [
+      "Je pense à toi.",
+      "Nous pensons à nos vacances."
+    ]
+  },
+  {
+    "verb": "se souvenir",
+    "preposition": "de",
+    "examples": [
+      "Je me souviens de ce jour.",
+      "Ils se souviennent de leur enfance."
+    ]
+  },
+  {
+    "verb": "répondre",
+    "preposition": "à",
+    "examples": [
+      "Il répond à la question.",
+      "Nous répondons à l'invitation."
+    ]
+  },
+  {
+    "verb": "s'occuper",
+    "preposition": "de",
+    "examples": [
+      "Je m'occupe de mes enfants.",
+      "Elle s'occupe de la cuisine."
+    ]
+  }
+] 
