@@ -1,0 +1,9 @@
+---
+description: Comments to be applied on key parts of the code
+globs: 
+alwaysApply: true
+---
+
+# Comments
+
+- Key parts of the code should have comments explaining what the code does
