@@ -29,7 +29,11 @@ app.get('/api/verbs', (req, res) => {
   }
 
   if (preposition) {
-    results = results.filter(v => v.preposition === preposition);
+    if (preposition === 'none') {
+      results = results.filter(v => !v.preposition || v.preposition === '');
+    } else {
+      results = results.filter(v => v.preposition === preposition);
+    }
   }
 
   res.json(results);

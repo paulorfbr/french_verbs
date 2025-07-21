@@ -1,5 +1,268 @@
 [
   {
+    "verb": "abuser",
+    "preposition": "de",
+    "examples": [
+      "Elle abuse de la patience de sa tante.",
+      "Trop souvent avec ses amis, il abuse de l'alcool."
+    ]
+  },
+  {
+    "verb": "achever",
+    "preposition": "de",
+    "examples": [
+      "Ce mois-ci, ils achèvent leur projet."
+    ]
+  },
+  {
+    "verb": "accuser",
+    "preposition": "de",
+    "examples": [
+      "Il accuse son frère de l'avoir blessé."
+    ]
+  },
+  {
+    "verb": "aider",
+    "preposition": "à",
+    "examples": [
+      "Elle m'aide à faire de la musique."
+    ]
+  },
+  {
+    "verb": "apprendre",
+    "preposition": "à",
+    "examples": [
+      "Elle apprend à jouer du piano."
+    ]
+  },
+  {
+    "verb": "arriver",
+    "preposition": "à",
+    "examples": [
+      "Elle arrive à temps pour le concert."
+    ]
+  },
+  {
+    "verb": "avoir",
+    "preposition": "à",
+    "examples": [
+      "Nous avons tendance à manger des fruits."
+    ]
+  },
+  {
+    "verb": "chercher",
+    "preposition": "à",
+    "examples": [
+      "Il cherche à trouver la solution."
+    ]
+  },
+  {
+    "verb": "commencer",
+    "preposition": "à",
+    "examples": [
+      "Il commence à apprendre l'anglais."
+    ]
+  },
+  {
+    "verb": "continuer",
+    "preposition": "à",
+    "examples": [
+      "Il continue à travailler."
+    ]
+  },
+  {
+    "verb": "consentir",
+    "preposition": "à",
+    "examples": [
+      "Il a consenti à faire un effort.",
+      "Nous consentons à participer au projet."
+    ]
+  },
+  {
+    "verb": "se décider",
+    "preposition": "à",
+    "examples": [
+      "Elle s'est décidée à partir.",
+      "Je me décide à changer de travail."
+    ]
+  },
+  {
+    "verb": "encourager",
+    "preposition": "à",
+    "examples": [
+      "Il encourage son fils à étudier.",
+      "Nous encourageons les élèves à poser des questions."
+    ]
+  },
+  {
+    "verb": "s’habituer",
+    "preposition": "à",
+    "examples": [
+      "Il s'habitue à vivre seul.",
+      "Je m'habitue à parler français."
+    ]
+  },
+  {
+    "verb": "hésiter",
+    "preposition": "à",
+    "examples": [
+      "Elle hésite à accepter l'offre.",
+      "N'hésitez pas à demander de l'aide."
+    ]
+  },
+  {
+    "verb": "inviter",
+    "preposition": "à",
+    "examples": [
+      "Il invite ses amis à dîner.",
+      "Elle m'a invité à participer à la réunion."
+    ]
+  },
+  {
+    "verb": "se mettre",
+    "preposition": "à",
+    "examples": [
+      "Il se met à pleuvoir.",
+      "Je me mets à travailler."
+    ]
+  },
+  {
+    "verb": "obliger",
+    "preposition": "à",
+    "examples": [
+      "On l'a obligé à partir.",
+      "Ils obligent les enfants à finir leurs devoirs."
+    ]
+  },
+  {
+    "verb": "parvenir",
+    "preposition": "à",
+    "examples": [
+      "Elle parvient à résoudre le problème.",
+      "Nous sommes parvenus à un accord."
+    ]
+  },
+  {
+    "verb": "passer du temps",
+    "preposition": "à",
+    "examples": [
+      "Il passe du temps à lire.",
+      "Nous passons du temps à discuter."
+    ]
+  },
+  {
+    "verb": "perdre du temps",
+    "preposition": "à",
+    "examples": [
+      "Il perd du temps à regarder la télévision.",
+      "Ne perds pas de temps à t'inquiéter."
+    ]
+  },
+  {
+    "verb": "persister",
+    "preposition": "à",
+    "examples": [
+      "Il persiste à nier les faits.",
+      "Elle persiste à croire en son projet."
+    ]
+  },
+  {
+    "verb": "pousser",
+    "preposition": "à",
+    "examples": [
+      "Il pousse son frère à réussir.",
+      "Elle m'a poussé à postuler."
+    ]
+  },
+  {
+    "verb": "se préparer",
+    "preposition": "à",
+    "examples": [
+      "Je me prépare à partir.",
+      "Ils se préparent à affronter l'hiver."
+    ]
+  },
+  {
+    "verb": "recommencer",
+    "preposition": "à",
+    "examples": [
+      "Il recommence à pleuvoir.",
+      "Elle recommence à travailler après une pause."
+    ]
+  },
+  {
+    "verb": "renoncer",
+    "preposition": "à",
+    "examples": [
+      "Il a renoncé à fumer.",
+      "Elle renonce à son voyage."
+    ]
+  },
+  {
+    "verb": "résister",
+    "preposition": "à",
+    "examples": [
+      "Il résiste à la tentation.",
+      "Nous résistons à l'envie de partir."
+    ]
+  },
+  {
+    "verb": "réussir",
+    "preposition": "à",
+    "examples": [
+      "Elle réussit à finir le projet.",
+      "J'ai réussi à le convaincre."
+    ]
+  },
+  {
+    "verb": "servir",
+    "preposition": "à",
+    "examples": [
+      "Cet outil sert à couper le bois.",
+      "À quoi cela sert-il à faire ?"
+    ]
+  },
+  {
+    "verb": "tenir",
+    "preposition": "à",
+    "examples": [
+      "Je tiens à te remercier.",
+      "Elle tient à finir ce travail."
+    ]
+  },
+  {
+    "verb": "s’amuser",
+    "preposition": "à",
+    "examples": [
+      "Les enfants s'amusent à courir dans le jardin.",
+      "Je m'amuse à dessiner."
+    ]
+  },
+  {
+    "verb": "s’attendre",
+    "preposition": "à",
+    "examples": [
+      "Je m'attends à recevoir une réponse.",
+      "Ils s'attendent à gagner."
+    ]
+  },
+  {
+    "verb": "s’autoriser",
+    "preposition": "à",
+    "examples": [
+      "Je m'autorise à prendre une pause.",
+      "Elle s'autorise à manger un dessert."
+    ]
+  },
+  {
+    "verb": "s’obstiner",
+    "preposition": "à",
+    "examples": [
+      "Il s'obstine à nier la vérité.",
+      "Elle s'obstine à vouloir tout faire seule."
+    ]
+  },
+  {
     "verb": "parler",
     "preposition": "à",
     "examples": [
@@ -46,5 +309,1311 @@
       "Je m'occupe de mes enfants.",
       "Elle s'occupe de la cuisine."
     ]
+  },
+  {
+    "verb": "acheter",
+    "preposition": "à",
+    "examples": [
+      "J'ai acheté un cadeau à Pierre.",
+      "Elle achète des fleurs à sa mère."
+    ]
+  },
+  {
+    "verb": "arracher",
+    "preposition": "à",
+    "examples": [
+      "Il a arraché le jouet à son frère.",
+      "On lui a arraché son sac à main."
+    ]
+  },
+  {
+    "verb": "conseiller",
+    "preposition": "à",
+    "examples": [
+      "Je conseille à Pierre de partir tôt.",
+      "Elle conseille à ses amis de lire ce livre."
+    ]
+  },
+  {
+    "verb": "demander",
+    "preposition": "à",
+    "examples": [
+      "Il demande à Pierre de l'aider.",
+      "Nous demandons à nos parents la permission."
+    ]
+  },
+  {
+    "verb": "défendre",
+    "preposition": "à",
+    "examples": [
+      "Le médecin défend à Paul de fumer.",
+      "On a défendu à l'enfant de sortir."
+    ]
+  },
+  {
+    "verb": "désobéir",
+    "preposition": "à",
+    "examples": [
+      "Il a désobéi à ses parents.",
+      "Elle désobéit à la règle."
+    ]
+  },
+  {
+    "verb": "dire",
+    "preposition": "à",
+    "examples": [
+      "Je dis la vérité à Pierre.",
+      "Elle dit bonjour à tout le monde."
+    ]
+  },
+  {
+    "verb": "donner",
+    "preposition": "à",
+    "examples": [
+      "Il donne un livre à Pierre.",
+      "Nous donnons des conseils à nos amis."
+    ]
+  },
+  {
+    "verb": "écrire",
+    "preposition": "à",
+    "examples": [
+      "J'écris une lettre à Pierre.",
+      "Elle écrit à sa grand-mère chaque semaine."
+    ]
+  },
+  {
+    "verb": "emprunter",
+    "preposition": "à",
+    "examples": [
+      "J'emprunte un stylo à Pierre.",
+      "Elle emprunte de l'argent à sa sœur."
+    ]
+  },
+  {
+    "verb": "envoyer",
+    "preposition": "à",
+    "examples": [
+      "J'envoie un colis à Pierre.",
+      "Elle envoie une carte à son ami."
+    ]
+  },
+  {
+    "verb": "être",
+    "preposition": "à",
+    "examples": [
+      "Ce livre est à Pierre.",
+      "La voiture est à moi."
+    ]
+  },
+  {
+    "verb": "faire attention",
+    "preposition": "à",
+    "examples": [
+      "Fais attention à Pierre !",
+      "Elle fait attention à la route."
+    ]
+  },
+  {
+    "verb": "goûter",
+    "preposition": "à",
+    "examples": [
+      "Il goûte à la confiture.",
+      "Nous avons goûté à ce plat exotique."
+    ]
+  },
+  {
+    "verb": "s’habituer",
+    "preposition": "à",
+    "examples": [
+      "Il s'habitue à Pierre.",
+      "Je m'habitue à la vie en France."
+    ]
+  },
+  {
+    "verb": "interdire",
+    "preposition": "à",
+    "examples": [
+      "On interdit à Pierre de sortir.",
+      "Le professeur interdit aux élèves de parler."
+    ]
+  },
+  {
+    "verb": "s’intéresser",
+    "preposition": "à",
+    "examples": [
+      "Je m'intéresse à Pierre.",
+      "Elle s'intéresse à la musique classique."
+    ]
+  },
+  {
+    "verb": "jouer",
+    "preposition": "à",
+    "examples": [
+      "Il joue au tennis.",
+      "Nous jouons à des jeux de société."
+    ]
+  },
+  {
+    "verb": "obéir",
+    "preposition": "à",
+    "examples": [
+      "Il obéit à Pierre.",
+      "Les enfants obéissent à leurs parents."
+    ]
+  },
+  {
+    "verb": "s’opposer",
+    "preposition": "à",
+    "examples": [
+      "Il s'oppose à Pierre.",
+      "Nous nous opposons à ce projet."
+    ]
+  },
+  {
+    "verb": "ordonner",
+    "preposition": "à",
+    "examples": [
+      "Le chef ordonne à Pierre de partir.",
+      "On a ordonné aux soldats de se reposer."
+    ]
+  },
+  {
+    "verb": "pardonner",
+    "preposition": "à",
+    "examples": [
+      "Je pardonne à Pierre.",
+      "Elle pardonne à son frère."
+    ]
+  },
+  {
+    "verb": "parler",
+    "preposition": "à",
+    "examples": [
+      "Je parle à Pierre.",
+      "Elle parle à son professeur."
+    ]
+  },
+  {
+    "verb": "penser",
+    "preposition": "à",
+    "examples": [
+      "Je pense à Pierre.",
+      "Nous pensons à nos amis."
+    ]
+  },
+  {
+    "verb": "permettre",
+    "preposition": "à",
+    "examples": [
+      "Je permets à Pierre de sortir.",
+      "On permet aux enfants de jouer dehors."
+    ]
+  },
+  {
+    "verb": "plaire",
+    "preposition": "à",
+    "examples": [
+      "Ce film plaît à Pierre.",
+      "Cette robe plaît à Marie."
+    ]
+  },
+  {
+    "verb": "profiter",
+    "preposition": "à",
+    "examples": [
+      "Ce changement profite à Pierre.",
+      "Cette solution profite à tout le monde."
+    ]
+  },
+  {
+    "verb": "promettre",
+    "preposition": "à",
+    "examples": [
+      "Je promets à Pierre de venir.",
+      "Elle promet à ses parents de travailler dur."
+    ]
+  },
+  {
+    "verb": "réfléchir",
+    "preposition": "à",
+    "examples": [
+      "Je réfléchis au problème.",
+      "Elle réfléchit à sa décision."
+    ]
+  },
+  {
+    "verb": "répondre",
+    "preposition": "à",
+    "examples": [
+      "Je réponds à Pierre.",
+      "Elle répond à la question."
+    ]
+  },
+  {
+    "verb": "résister",
+    "preposition": "à",
+    "examples": [
+      "Il résiste à Pierre.",
+      "Elle résiste à la tentation."
+    ]
+  },
+  {
+    "verb": "ressembler",
+    "preposition": "à",
+    "examples": [
+      "Il ressemble à Pierre.",
+      "Elle ressemble à sa mère."
+    ]
+  },
+  {
+    "verb": "réussir",
+    "preposition": "à",
+    "examples": [
+      "Il a réussi à l'examen.",
+      "Elle réussit à convaincre ses amis."
+    ]
+  },
+  {
+    "verb": "serrer la main",
+    "preposition": "à",
+    "examples": [
+      "Je serre la main à Pierre.",
+      "Elle serre la main à son collègue."
+    ]
+  },
+  {
+    "verb": "servir",
+    "preposition": "à",
+    "examples": [
+      "Ce livre sert à Pierre.",
+      "Cette clé sert à ouvrir la porte."
+    ]
+  },
+  {
+    "verb": "téléphoner",
+    "preposition": "à",
+    "examples": [
+      "Je téléphone à Pierre.",
+      "Elle téléphone à sa mère tous les jours."
+    ]
+  },
+  {
+    "verb": "voler",
+    "preposition": "à",
+    "examples": [
+      "Il a volé un livre à Pierre.",
+      "On lui a volé son portefeuille."
+    ]
+  },
+
+  {
+    "verb": "accepter",
+    "preposition": "de",
+    "examples": [
+      "Il accepte de partir cet hiver avec nous.",
+      "Elle accepte de faire un effort."
+    ]
+  },
+  {
+    "verb": "accuser",
+    "preposition": "de",
+    "examples": [
+      "Il accuse son frère de mentir.",
+      "Elle accuse Paul de voler son stylo."
+    ]
+  },
+  {
+    "verb": "arrêter",
+    "preposition": "de",
+    "examples": [
+      "Il arrête de fumer.",
+      "Nous arrêtons de parler."
+    ]
+  },
+  {
+    "verb": "avoir peur",
+    "preposition": "de",
+    "examples": [
+      "J'ai peur de tomber.",
+      "Elle a peur de parler en public."
+    ]
+  },
+  {
+    "verb": "avoir envie",
+    "preposition": "de",
+    "examples": [
+      "J'ai envie de sortir ce soir.",
+      "Ils ont envie de voyager."
+    ]
+  },
+  {
+    "verb": "avoir besoin",
+    "preposition": "de",
+    "examples": [
+      "J'ai besoin de dormir.",
+      "Elle a besoin de toi."
+    ]
+  },
+  {
+    "verb": "avoir l’air",
+    "preposition": "de",
+    "examples": [
+      "Il a l'air de comprendre.",
+      "Elle a l'air de s'ennuyer."
+    ]
+  },
+  {
+    "verb": "avoir l’intention",
+    "preposition": "de",
+    "examples": [
+      "J'ai l'intention de partir tôt.",
+      "Ils ont l'intention de déménager."
+    ]
+  },
+  {
+    "verb": "avoir raison",
+    "preposition": "de",
+    "examples": [
+      "Tu as raison de protester.",
+      "Elle a raison de s'inquiéter."
+    ]
+  },
+  {
+    "verb": "avoir tort",
+    "preposition": "de",
+    "examples": [
+      "Il a tort de mentir.",
+      "Vous avez tort de vous fâcher."
+    ]
+  },
+  {
+    "verb": "cesser",
+    "preposition": "de",
+    "examples": [
+      "Il cesse de pleuvoir.",
+      "Elle cesse de parler."
+    ]
+  },
+  {
+    "verb": "choisir",
+    "preposition": "de",
+    "examples": [
+      "Il choisit de partir.",
+      "Nous choisissons de rester."
+    ]
+  },
+  {
+    "verb": "commander",
+    "preposition": "à",
+    "examples": [
+      "Le chef commande à ses soldats de se taire.",
+      "Elle commande à son fils de ranger sa chambre."
+    ]
+  },
+  {
+    "verb": "conseiller",
+    "preposition": "de",
+    "examples": [
+      "Je conseille de partir tôt.",
+      "Il conseille de lire ce livre."
+    ]
+  },
+  {
+    "verb": "continuer",
+    "preposition": "de",
+    "examples": [
+      "Il continue de travailler.",
+      "Nous continuons de parler."
+    ]
+  },
+  {
+    "verb": "craindre",
+    "preposition": "de",
+    "examples": [
+      "Je crains de me tromper.",
+      "Elle craint de perdre son emploi."
+    ]
+  },
+  {
+    "verb": "décider",
+    "preposition": "de",
+    "examples": [
+      "Il décide de partir.",
+      "Nous décidons de changer de voiture."
+    ]
+  },
+  {
+    "verb": "défendre",
+    "preposition": "à",
+    "examples": [
+      "Le médecin défend à Paul de fumer.",
+      "On a défendu à l'enfant de sortir."
+    ]
+  },
+  {
+    "verb": "demander",
+    "preposition": "à",
+    "examples": [
+      "Il demande à Pierre de l'aider.",
+      "Nous demandons à nos parents la permission."
+    ]
+  },
+  {
+    "verb": "se dépêcher",
+    "preposition": "de",
+    "examples": [
+      "Je me dépêche de finir mes devoirs.",
+      "Elle se dépêche de rentrer chez elle."
+    ]
+  },
+  {
+    "verb": "dire",
+    "preposition": "à",
+    "examples": [
+      "Je dis à Paul de venir.",
+      "Elle dit à ses enfants de se taire."
+    ]
+  },
+  {
+    "verb": "empêcher",
+    "preposition": "de",
+    "examples": [
+      "Il empêche son frère de sortir.",
+      "Elle m'empêche de parler."
+    ]
+  },
+  {
+    "verb": "essayer",
+    "preposition": "de",
+    "examples": [
+      "J'essaie de comprendre.",
+      "Elle essaie de finir à temps."
+    ]
+  },
+  {
+    "verb": "s’excuser",
+    "preposition": "de",
+    "examples": [
+      "Je m'excuse de vous déranger.",
+      "Elle s'excuse de son retard."
+    ]
+  },
+  {
+    "verb": "finir",
+    "preposition": "de",
+    "examples": [
+      "Il finit de manger.",
+      "Nous finissons de lire le livre."
+    ]
+  },
+  {
+    "verb": "manquer",
+    "preposition": "de",
+    "examples": [
+      "Il manque de tomber.",
+      "Elle manque de patience."
+    ]
+  },
+  {
+    "verb": "mériter",
+    "preposition": "de",
+    "examples": [
+      "Il mérite de gagner.",
+      "Elle mérite de réussir."
+    ]
+  },
+  {
+    "verb": "offrir",
+    "preposition": "de",
+    "examples": [
+      "Il offre de l'aider.",
+      "Elle offre de faire le repas."
+    ]
+  },
+  {
+    "verb": "oublier",
+    "preposition": "de",
+    "examples": [
+      "J'oublie de fermer la porte.",
+      "Elle oublie de prendre ses clés."
+    ]
+  },
+  {
+    "verb": "parler",
+    "preposition": "de",
+    "examples": [
+      "Nous parlons de voyager.",
+      "Il parle de changer de travail."
+    ]
+  },
+  {
+    "verb": "se permettre",
+    "preposition": "de",
+    "examples": [
+      "Je me permets de vous écrire.",
+      "Elle se permet de critiquer tout le monde."
+    ]
+  },
+  {
+    "verb": "se plaindre",
+    "preposition": "de",
+    "examples": [
+      "Il se plaint de travailler trop.",
+      "Elle se plaint de la chaleur."
+    ]
+  },
+  {
+    "verb": "promettre",
+    "preposition": "de",
+    "examples": [
+      "Je promets de venir.",
+      "Elle promet de faire attention."
+    ]
+  },
+  {
+    "verb": "proposer",
+    "preposition": "de",
+    "examples": [
+      "Je propose de partir maintenant.",
+      "Il propose de faire une pause."
+    ]
+  },
+  {
+    "verb": "refuser",
+    "preposition": "de",
+    "examples": [
+      "Il refuse de partir.",
+      "Elle refuse de répondre."
+    ]
+  },
+  {
+    "verb": "regretter",
+    "preposition": "de",
+    "examples": [
+      "Je regrette de vous déranger.",
+      "Elle regrette de ne pas être venue."
+    ]
+  },
+  {
+    "verb": "remercier",
+    "preposition": "de",
+    "examples": [
+      "Je vous remercie de votre aide.",
+      "Elle me remercie de l'avoir invitée."
+    ]
+  },
+  {
+    "verb": "rêver",
+    "preposition": "de",
+    "examples": [
+      "Je rêve de voyager.",
+      "Elle rêve de devenir médecin."
+    ]
+  },
+  {
+    "verb": "risquer",
+    "preposition": "de",
+    "examples": [
+      "Il risque de tomber.",
+      "Elle risque de perdre son emploi."
+    ]
+  },
+  {
+    "verb": "s’assurer",
+    "preposition": "de",
+    "examples": [
+      "Je m'assure de fermer la porte.",
+      "Elle s'assure de tout préparer."
+    ]
+  },
+  {
+    "verb": "se souvenir",
+    "preposition": "de",
+    "examples": [
+      "Je me souviens de voir ce film.",
+      "Elle se souvient de rencontrer Paul."
+    ]
+  },
+  {
+    "verb": "supplier",
+    "preposition": "de",
+    "examples": [
+      "Je te supplie de rester.",
+      "Elle supplie son père de lui acheter un jouet."
+    ]
+  },
+  {
+    "verb": "venir",
+    "preposition": "de",
+    "examples": [
+      "Je viens de finir mes devoirs.",
+      "Elle vient de partir."
+    ]
+  },
+  {
+    "verb": "se contenter",
+    "preposition": "de",
+    "examples": [
+      "Il se contente de peu.",
+      "Elle se contente de regarder."
+    ]
+  },
+  {
+    "verb": "convaincre",
+    "preposition": "de",
+    "examples": [
+      "Il convainc son ami de venir.",
+      "Elle me convainc de participer."
+    ]
+  },
+  {
+    "verb": "s’efforcer",
+    "preposition": "de",
+    "examples": [
+      "Il s'efforce de comprendre.",
+      "Elle s'efforce de sourire."
+    ]
+  },
+  {
+    "verb": "envisager",
+    "preposition": "de",
+    "examples": [
+      "J'envisage de partir en vacances.",
+      "Elle envisage de changer de travail."
+    ]
+  },
+  {
+    "verb": "éviter",
+    "preposition": "de",
+    "examples": [
+      "Il évite de parler de ce sujet.",
+      "Elle évite de sortir le soir."
+    ]
+  },
+  {
+    "verb": "faire semblant",
+    "preposition": "de",
+    "examples": [
+      "Il fait semblant de dormir.",
+      "Elle fait semblant de ne rien entendre."
+    ]
+  },
+  {
+    "verb": "feindre",
+    "preposition": "de",
+    "examples": [
+      "Il feint de ne pas comprendre.",
+      "Elle feint de dormir."
+    ]
+  },
+  {
+    "verb": "accourir",
+    "preposition": "",
+    "examples": [
+      "Les pompiers accoururent à l'appel."
+    ]
+  },
+  {
+    "verb": "interdire",
+    "preposition": "à",
+    "examples": [
+      "Le professeur interdit aux élèves de parler en classe.",
+      "On lui a interdit de sortir le soir."
+    ]
+  },
+  {
+    "verb": "jurer",
+    "preposition": "de",
+    "examples": [
+      "Il jure de dire la vérité.",
+      "Elle a juré de ne plus recommencer."
+    ]
+  },
+  {
+    "verb": "menacer",
+    "preposition": "de",
+    "examples": [
+      "Il menace de partir.",
+      "Elle menace son frère de tout raconter."
+    ]
+  },
+  {
+    "verb": "persuader",
+    "preposition": "de",
+    "examples": [
+      "J'ai persuadé Paul de venir avec nous.",
+      "Elle persuade son ami de tenter sa chance."
+    ]
+  },
+  {
+    "verb": "prévoir",
+    "preposition": "de",
+    "examples": [
+      "Je prévois de voyager cet été.",
+      "Ils prévoient de déménager bientôt."
+    ]
+  },
+  {
+    "verb": "projeter",
+    "preposition": "de",
+    "examples": [
+      "Nous projetons de partir en vacances.",
+      "Elle projette de changer de travail."
+    ]
+  },
+  {
+    "verb": "reprocher",
+    "preposition": "à",
+    "examples": [
+      "Il reproche à son frère de ne pas l'aider.",
+      "Elle me reproche de ne jamais l'écouter."
+    ]
+  },
+  {
+    "verb": "soupçonner",
+    "preposition": "de",
+    "examples": [
+      "On le soupçonne d'avoir menti.",
+      "Elle soupçonne son collègue de tricher."
+    ]
+  },
+  {
+    "verb": "suggérer",
+    "preposition": "à",
+    "examples": [
+      "Je suggère à Marie de se reposer.",
+      "Il suggère à ses amis de partir plus tôt."
+    ]
+  },
+  {
+    "verb": "tâcher",
+    "preposition": "de",
+    "examples": [
+      "Je vais tâcher de finir à temps.",
+      "Tâche de ne pas oublier."
+    ]
+  },
+  {
+    "verb": "tenter",
+    "preposition": "de",
+    "examples": [
+      "Il tente de résoudre le problème.",
+      "Elle tente de gagner le concours."
+    ]
+  },
+  {
+    "verb": "s’approcher",
+    "preposition": "de",
+    "examples": [
+      "Je m’approche de Pierre.",
+      "Nous nous approchons de la gare."
+    ]
+  },
+  {
+    "verb": "s’apercevoir",
+    "preposition": "de",
+    "examples": [
+      "Elle s’aperçoit de son erreur.",
+      "Je me suis aperçu de la situation."
+    ]
+  },
+  {
+    "verb": "avoir besoin",
+    "preposition": "de",
+    "examples": [
+      "J’ai besoin de Pierre.",
+      "Nous avons besoin de votre aide."
+    ]
+  },
+  {
+    "verb": "avoir peur",
+    "preposition": "de",
+    "examples": [
+      "J’ai peur de Pierre.",
+      "Elle a peur de l’obscurité."
+    ]
+  },
+  {
+    "verb": "avoir l’air",
+    "preposition": "de",
+    "examples": [
+      "Il a l’air de Pierre.",
+      "Elle a l’air de comprendre."
+    ]
+  },
+  {
+    "verb": "avoir envie",
+    "preposition": "de",
+    "examples": [
+      "J’ai envie d’une pomme.",
+      "Il a envie de sortir."
+    ]
+  },
+  {
+    "verb": "changer",
+    "preposition": "de",
+    "examples": [
+      "Je change de chaussure.",
+      "Elle change de travail."
+    ]
+  },
+  {
+    "verb": "dépendre",
+    "preposition": "de",
+    "examples": [
+      "Cela dépend de Pierre.",
+      "Tout dépend de la météo."
+    ]
+  },
+  {
+    "verb": "douter",
+    "preposition": "de",
+    "examples": [
+      "Je doute de Pierre.",
+      "Nous doutons de sa sincérité."
+    ]
+  },
+  {
+    "verb": "être responsable",
+    "preposition": "de",
+    "examples": [
+      "Il est responsable de Pierre.",
+      "Elle est responsable du projet."
+    ]
+  },
+  {
+    "verb": "hériter",
+    "preposition": "de",
+    "examples": [
+      "Elle hérite de Pierre.",
+      "Il a hérité de la maison de ses parents."
+    ]
+  },
+  {
+    "verb": "jouer",
+    "preposition": "de",
+    "examples": [
+      "Il joue du piano.",
+      "Elle joue de la guitare."
+    ]
+  },
+  {
+    "verb": "manquer",
+    "preposition": "de",
+    "examples": [
+      "Il manque de temps.",
+      "Nous manquons de patience."
+    ]
+  },
+  {
+    "verb": "se méfier",
+    "preposition": "de",
+    "examples": [
+      "Je me méfie de Pierre.",
+      "Elle se méfie des inconnus."
+    ]
+  },
+  {
+    "verb": "se moquer",
+    "preposition": "de",
+    "examples": [
+      "Ils se moquent de Pierre.",
+      "Elle se moque de ses amis."
+    ]
+  },
+  {
+    "verb": "s’occuper",
+    "preposition": "de",
+    "examples": [
+      "Je m’occupe de Pierre.",
+      "Elle s’occupe de la cuisine."
+    ]
+  },
+  {
+    "verb": "parler",
+    "preposition": "de",
+    "examples": [
+      "Nous parlons de Pierre.",
+      "Je parle de mon projet."
+    ]
+  },
+  {
+    "verb": "partir",
+    "preposition": "de",
+    "examples": [
+      "Il part de France.",
+      "Nous partons de la maison à huit heures."
+    ]
+  },
+  {
+    "verb": "se passer",
+    "preposition": "de",
+    "examples": [
+      "Je me passe de Pierre.",
+      "Elle se passe de dessert."
+    ]
+  },
+  {
+    "verb": "penser",
+    "preposition": "de",
+    "examples": [
+      "Que penses-tu de Pierre ?",
+      "Que penses-tu de ce film ?"
+    ]
+  },
+  {
+    "verb": "se plaindre",
+    "preposition": "de",
+    "examples": [
+      "Il se plaint de Pierre.",
+      "Elle se plaint de la chaleur."
+    ]
+  },
+  {
+    "verb": "profiter",
+    "preposition": "de",
+    "examples": [
+      "Il profite de Pierre.",
+      "Nous profitons du beau temps."
+    ]
+  },
+  {
+    "verb": "rêver",
+    "preposition": "de",
+    "examples": [
+      "Je rêve de Pierre.",
+      "Elle rêve de voyager."
+    ]
+  },
+  {
+    "verb": "rire",
+    "preposition": "de",
+    "examples": [
+      "Ils rient de Pierre.",
+      "Nous rions de la blague."
+    ]
+  },
+  {
+    "verb": "se servir",
+    "preposition": "de",
+    "examples": [
+      "Je me sers de Pierre.",
+      "Elle se sert de son ordinateur."
+    ]
+  },
+  {
+    "verb": "se souvenir",
+    "preposition": "de",
+    "examples": [
+      "Je me souviens de Pierre.",
+      "Elle se souvient de son enfance."
+    ]
+  },
+  {
+    "verb": "se tromper",
+    "preposition": "de",
+    "examples": [
+      "Je me suis trompé de livre.",
+      "Elle s’est trompée de route."
+    ]
+  },
+  {
+    "verb": "adorer",
+    "preposition": "",
+    "examples": [
+      "J'adore voyager.",
+      "Elle adore chanter sous la douche."
+    ]
+  },
+  {
+    "verb": "aimer",
+    "preposition": "",
+    "examples": [
+      "J'aime lire le soir.",
+      "Ils aiment jouer au football."
+    ]
+  },
+  {
+    "verb": "aimer mieux",
+    "preposition": "",
+    "examples": [
+      "J'aime mieux rester à la maison.",
+      "Elle aime mieux travailler seule."
+    ]
+  },
+  {
+    "verb": "aller",
+    "preposition": "",
+    "examples": [
+      "Je vais partir demain.",
+      "Nous allons étudier ensemble."
+    ]
+  },
+  {
+    "verb": "avouer",
+    "preposition": "",
+    "examples": [
+      "Il avoue avoir menti.",
+      "Elle avoue ne pas comprendre."
+    ]
+  },
+  {
+    "verb": "compter",
+    "preposition": "",
+    "examples": [
+      "Je compte voyager cet été.",
+      "Ils comptent acheter une maison."
+    ]
+  },
+  {
+    "verb": "courir",
+    "preposition": "",
+    "examples": [
+      "Il court chercher de l'aide.",
+      "Elle court attraper le bus."
+    ]
+  },
+  {
+    "verb": "désirer",
+    "preposition": "",
+    "examples": [
+      "Je désire apprendre le français.",
+      "Elle désire changer de travail."
+    ]
+  },
+  {
+    "verb": "détester",
+    "preposition": "",
+    "examples": [
+      "Je déteste attendre.",
+      "Il déteste se lever tôt."
+    ]
+  },
+  {
+    "verb": "devoir",
+    "preposition": "",
+    "examples": [
+      "Je dois partir maintenant.",
+      "Nous devons finir ce projet."
+    ]
+  },
+  {
+    "verb": "écouter",
+    "preposition": "",
+    "examples": [
+      "J'écoute Paul chanter.",
+      "Elle écoute les enfants jouer."
+    ]
+  },
+  {
+    "verb": "emmener",
+    "preposition": "",
+    "examples": [
+      "J'emmène mon frère voir le film.",
+      "Elle emmène sa fille faire du shopping."
+    ]
+  },
+  {
+    "verb": "envoyer",
+    "preposition": "",
+    "examples": [
+      "J'envoie Marie acheter du pain.",
+      "Il envoie son fils chercher de l'eau."
+    ]
+  },
+  {
+    "verb": "espérer",
+    "preposition": "",
+    "examples": [
+      "J'espère réussir l'examen.",
+      "Elle espère trouver un emploi."
+    ]
+  },
+  {
+    "verb": "être censé",
+    "preposition": "",
+    "examples": [
+      "Je suis censé finir ce travail.",
+      "Ils sont censés arriver à midi."
+    ]
+  },
+  {
+    "verb": "faire",
+    "preposition": "",
+    "examples": [
+      "Je fais réparer ma voiture.",
+      "Elle fait laver les vitres."
+    ]
+  },
+  {
+    "verb": "falloir",
+    "preposition": "",
+    "examples": [
+      "Il faut partir maintenant.",
+      "Il faut étudier pour réussir."
+    ]
+  },
+  {
+    "verb": "laisser",
+    "preposition": "",
+    "examples": [
+      "Je laisse Paul parler.",
+      "Elle laisse les enfants jouer dehors."
+    ]
+  },
+  {
+    "verb": "oser",
+    "preposition": "",
+    "examples": [
+      "Il ose parler en public.",
+      "Elle ose dire la vérité."
+    ]
+  },
+  {
+    "verb": "paraître",
+    "preposition": "",
+    "examples": [
+      "Il paraît être fatigué.",
+      "Elle paraît comprendre la situation."
+    ]
+  },
+  {
+    "verb": "penser",
+    "preposition": "",
+    "examples": [
+      "Je pense partir demain.",
+      "Elle pense changer de travail."
+    ]
+  },
+  {
+    "verb": "pouvoir",
+    "preposition": "",
+    "examples": [
+      "Je peux venir ce soir.",
+      "Ils peuvent finir le projet."
+    ]
+  },
+  {
+    "verb": "préférer",
+    "preposition": "",
+    "examples": [
+      "Je préfère rester ici.",
+      "Elle préfère travailler seule."
+    ]
+  },
+  {
+    "verb": "prétendre",
+    "preposition": "",
+    "examples": [
+      "Il prétend tout savoir.",
+      "Elle prétend être malade."
+    ]
+  },
+  {
+    "verb": "regarder",
+    "preposition": "",
+    "examples": [
+      "Je regarde Paul jouer.",
+      "Elle regarde les enfants courir."
+    ]
+  },
+  {
+    "verb": "savoir",
+    "preposition": "",
+    "examples": [
+      "Je sais parler anglais.",
+      "Elle sait nager."
+    ]
+  },
+  {
+    "verb": "sembler",
+    "preposition": "",
+    "examples": [
+      "Il semble comprendre.",
+      "Elle semble hésiter."
+    ]
+  },
+  {
+    "verb": "souhaiter",
+    "preposition": "",
+    "examples": [
+      "Je souhaite partir en vacances.",
+      "Elle souhaite apprendre le piano."
+    ]
+  },
+  {
+    "verb": "venir",
+    "preposition": "",
+    "examples": [
+      "Je viens aider mon ami.",
+      "Elle vient chercher ses enfants."
+    ]
+  },
+  {
+    "verb": "vouloir",
+    "preposition": "",
+    "examples": [
+      "Je veux réussir.",
+      "Ils veulent partir tôt."
+    ]
+  },
+
+  {
+    "verb": "monter",
+    "preposition": "",
+    "examples": [
+      "Je vais monter voir ce qu'il se passe.",
+      "Ils montent chercher leurs affaires."
+    ]
+  },
+  {
+    "verb": "descendre",
+    "preposition": "",
+    "examples": [
+      "Elle descend acheter du pain.",
+      "Nous descendons prendre l'air."
+    ]
+  },
+  {
+    "verb": "rentrer",
+    "preposition": "",
+    "examples": [
+      "Il rentre travailler.",
+      "Je rentre chercher mon livre."
+    ]
+  },
+  {
+    "verb": "aller",
+    "preposition": "",
+    "examples": [
+      "Je vais étudier à la bibliothèque.",
+      "Nous allons voir un film."
+    ]
+  },
+  {
+    "verb": "retourner",
+    "preposition": "",
+    "examples": [
+      "Elle retourne chercher son sac.",
+      "Je retourne travailler après le déjeuner."
+    ]
+  },
+  {
+    "verb": "sortir",
+    "preposition": "",
+    "examples": [
+      "Il sort acheter du lait.",
+      "Nous sortons prendre un café."
+    ]
+  },
+  {
+    "verb": "venir",
+    "preposition": "",
+    "examples": [
+      "Je viens aider mon ami.",
+      "Elle vient chercher ses enfants."
+    ]
   }
+
 ] 

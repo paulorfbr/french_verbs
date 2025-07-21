@@ -4,7 +4,8 @@ import SearchIcon from '@mui/icons-material/Search';
 
 const PREPOSITIONS = [
   { label: 'à', value: 'à' },
-  { label: 'de', value: 'de' }
+  { label: 'de', value: 'de' },
+  { label: 'None', value: 'none' }
 ];
 
 function App() {
