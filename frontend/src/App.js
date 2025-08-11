@@ -15,6 +15,7 @@ function App() {
   const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
 
+
   const handleModeChange = (event, newValue) => {
     setMode(newValue);
     setResults([]);
@@ -23,7 +24,8 @@ function App() {
 
   const handleSearch = async () => {
     setLoading(true);
-    let url = 'http://localhost:3001/api/verbs?';
+    let url = process.env.API_URL + '?';
+    console.log('Calling service at: ' + url);
     if (mode === 'verb') {
       url += `search=${encodeURIComponent(search)}`;
     } else {
