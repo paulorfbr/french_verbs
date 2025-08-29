@@ -24,7 +24,7 @@ function App() {
 
   const handleSearch = async () => {
     setLoading(true);
-    let url = process.env.API_URL + '?';
+    let url = 'http://localhost:3001/api/verbs?';
     console.log('Calling service at: ' + url);
     if (mode === 'verb') {
       url += `search=${encodeURIComponent(search)}`;
