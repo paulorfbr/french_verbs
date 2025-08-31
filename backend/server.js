@@ -6,7 +6,11 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT;
 
-app.use(cors());
+// enabling CORS for some specific origins only.
+let corsOptions = {
+   origin : ['https://french-verbs-backend.onrender.com'],
+}
+app.use(cors(corsOptions));
 
 // Load verbs data
 const verbsFile = path.join(__dirname, 'verbs.json');
