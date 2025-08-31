@@ -1614,6 +1614,21 @@
       "Je viens aider mon ami.",
       "Elle vient chercher ses enfants."
     ]
+  },
+  {
+    "verb": "manger",
+    "preposition": "",
+    "examples": [
+      "Je mange pour vivre.",
+      "Elle mange en travaillant."
+    ]
+  },
+  {
+    "verb": "travailler",
+    "preposition": "",
+    "examples": [
+      "Je travaille pour réussir.",
+      "Il travaille en écoutant de la musique."
+    ]
   }
-
 ] 
