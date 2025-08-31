@@ -24,7 +24,7 @@ function App() {
 
   const handleSearch = async () => {
     setLoading(true);
-    let url = 'http://localhost/api/verbs?';
+    let url = 'https://french-verbs-backend.onrender.com/api/verbs?';
     console.log('Calling service at: ' + url);
     if (mode === 'verb') {
       url += `search=${encodeURIComponent(search)}`;
