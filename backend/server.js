@@ -8,7 +8,7 @@ const PORT = process.env.PORT;
 
 // enabling CORS for some specific origins only.
 let corsOptions = {
-   origin : ['https://french-verbs-backend.onrender.com'],
+   origin : ['https://french-verbs-front.onrender.com'],
 }
 app.use(cors(corsOptions));
 
