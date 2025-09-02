@@ -307,15 +307,6 @@
     ]
   },
   {
-    "verb": "avoir besoin",
-    "preposition": "de",
-    "translation": "to need",
-    "examples": [
-      "J'ai besoin de dormir.",
-      "Elle a besoin de toi."
-    ]
-  },
-  {
     "verb": "penser",
     "preposition": "à",
     "translation": "to think of",
@@ -1180,15 +1171,6 @@
     "examples": [
       "Elle s’aperçoit de son erreur.",
       "Je me suis aperçu de la situation."
-    ]
-  },
-  {
-    "verb": "avoir besoin",
-    "translation": "to need",
-    "preposition": "de",
-    "examples": [
-      "J’ai besoin de Pierre.",
-      "Nous avons besoin de votre aide."
     ]
   },
   {
