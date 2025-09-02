@@ -2,6 +2,7 @@
   {
     "verb": "abuser",
     "preposition": "de",
+    "translation": "to abuse, to take advantage of",
     "examples": [
       "Elle abuse de la patience de sa tante.",
       "Trop souvent avec ses amis, il abuse de l'alcool."
@@ -10,13 +11,16 @@
   {
     "verb": "achever",
     "preposition": "de",
+    "translation": "to finish, to complete",
     "examples": [
-      "Ce mois-ci, ils achèvent leur projet."
+      "Il achève de lire le livre.",
+      "Nous achevons de préparer le repas."
     ]
   },
   {
     "verb": "accuser",
     "preposition": "de",
+    "translation": "to accuse",
     "examples": [
       "Il accuse son frère de l'avoir blessé."
     ]
@@ -24,6 +28,7 @@
   {
     "verb": "aider",
     "preposition": "à",
+    "translation": "to help",
     "examples": [
       "Elle m'aide à faire de la musique."
     ]
@@ -31,6 +36,7 @@
   {
     "verb": "apprendre",
     "preposition": "à",
+    "translation": "to learn",
     "examples": [
       "Elle apprend à jouer du piano."
     ]
@@ -38,6 +44,7 @@
   {
     "verb": "arriver",
     "preposition": "à",
+    "translation": "to manage to, to succeed in",
     "examples": [
       "Elle arrive à temps pour le concert."
     ]
@@ -45,6 +52,7 @@
   {
     "verb": "avoir",
     "preposition": "à",
+    "translation": "to have to",
     "examples": [
       "Nous avons tendance à manger des fruits."
     ]
@@ -52,6 +60,7 @@
   {
     "verb": "chercher",
     "preposition": "à",
+    "translation": "to try to",
     "examples": [
       "Il cherche à trouver la solution."
     ]
@@ -59,6 +68,7 @@
   {
     "verb": "commencer",
     "preposition": "à",
+    "translation": "to begin to",
     "examples": [
       "Il commence à apprendre l'anglais."
     ]
@@ -66,6 +76,7 @@
   {
     "verb": "continuer",
     "preposition": "à",
+    "translation": "to continue to",
     "examples": [
       "Il continue à travailler."
     ]
@@ -73,6 +84,7 @@
   {
     "verb": "consentir",
     "preposition": "à",
+    "translation": "to consent to",
     "examples": [
       "Il a consenti à faire un effort.",
       "Nous consentons à participer au projet."
@@ -81,6 +93,7 @@
   {
     "verb": "se décider",
     "preposition": "à",
+    "translation": "to decide to",
     "examples": [
       "Elle s'est décidée à partir.",
       "Je me décide à changer de travail."
@@ -89,6 +102,7 @@
   {
     "verb": "encourager",
     "preposition": "à",
+    "translation": "to encourage to",
     "examples": [
       "Il encourage son fils à étudier.",
       "Nous encourageons les élèves à poser des questions."
@@ -97,6 +111,7 @@
   {
     "verb": "s’habituer",
     "preposition": "à",
+    "translation": "to get used to",
     "examples": [
       "Il s'habitue à vivre seul.",
       "Je m'habitue à parler français."
@@ -105,6 +120,7 @@
   {
     "verb": "hésiter",
     "preposition": "à",
+    "translation": "to hesitate to",
     "examples": [
       "Elle hésite à accepter l'offre.",
       "N'hésitez pas à demander de l'aide."
@@ -113,6 +129,7 @@
   {
     "verb": "inviter",
     "preposition": "à",
+    "translation": "to invite to",
     "examples": [
       "Il invite ses amis à dîner.",
       "Elle m'a invité à participer à la réunion."
@@ -121,6 +138,7 @@
   {
     "verb": "se mettre",
     "preposition": "à",
+    "translation": "to start to",
     "examples": [
       "Il se met à pleuvoir.",
       "Je me mets à travailler."
@@ -129,6 +147,7 @@
   {
     "verb": "obliger",
     "preposition": "à",
+    "translation": "to force to",
     "examples": [
       "On l'a obligé à partir.",
       "Ils obligent les enfants à finir leurs devoirs."
@@ -137,6 +156,7 @@
   {
     "verb": "parvenir",
     "preposition": "à",
+    "translation": "to manage to",
     "examples": [
       "Elle parvient à résoudre le problème.",
       "Nous sommes parvenus à un accord."
@@ -145,6 +165,7 @@
   {
     "verb": "passer du temps",
     "preposition": "à",
+    "translation": "to spend time",
     "examples": [
       "Il passe du temps à lire.",
       "Nous passons du temps à discuter."
@@ -153,6 +174,7 @@
   {
     "verb": "perdre du temps",
     "preposition": "à",
+    "translation": "to waste time",
     "examples": [
       "Il perd du temps à regarder la télévision.",
       "Ne perds pas de temps à t'inquiéter."
@@ -161,6 +183,7 @@
   {
     "verb": "persister",
     "preposition": "à",
+    "translation": "to persist in",
     "examples": [
       "Il persiste à nier les faits.",
       "Elle persiste à croire en son projet."
@@ -169,6 +192,7 @@
   {
     "verb": "pousser",
     "preposition": "à",
+    "translation": "to push to",
     "examples": [
       "Il pousse son frère à réussir.",
       "Elle m'a poussé à postuler."
@@ -177,6 +201,7 @@
   {
     "verb": "se préparer",
     "preposition": "à",
+    "translation": "to prepare to",
     "examples": [
       "Je me prépare à partir.",
       "Ils se préparent à affronter l'hiver."
@@ -185,6 +210,7 @@
   {
     "verb": "recommencer",
     "preposition": "à",
+    "translation": "to start again",
     "examples": [
       "Il recommence à pleuvoir.",
       "Elle recommence à travailler après une pause."
@@ -193,6 +219,7 @@
   {
     "verb": "renoncer",
     "preposition": "à",
+    "translation": "to give up",
     "examples": [
       "Il a renoncé à fumer.",
       "Elle renonce à son voyage."
@@ -201,6 +228,7 @@
   {
     "verb": "résister",
     "preposition": "à",
+    "translation": "to resist",
     "examples": [
       "Il résiste à la tentation.",
       "Nous résistons à l'envie de partir."
@@ -209,6 +237,7 @@
   {
     "verb": "réussir",
     "preposition": "à",
+    "translation": "to succeed in",
     "examples": [
       "Elle réussit à finir le projet.",
       "J'ai réussi à le convaincre."
@@ -217,6 +246,7 @@
   {
     "verb": "servir",
     "preposition": "à",
+    "translation": "to serve to",
     "examples": [
       "Cet outil sert à couper le bois.",
       "À quoi cela sert-il à faire ?"
@@ -225,6 +255,7 @@
   {
     "verb": "tenir",
     "preposition": "à",
+    "translation": "to insist on",
     "examples": [
       "Je tiens à te remercier.",
       "Elle tient à finir ce travail."
@@ -233,6 +264,7 @@
   {
     "verb": "s’amuser",
     "preposition": "à",
+    "translation": "to have fun",
     "examples": [
       "Les enfants s'amusent à courir dans le jardin.",
       "Je m'amuse à dessiner."
@@ -241,6 +273,7 @@
   {
     "verb": "s’attendre",
     "preposition": "à",
+    "translation": "to expect to",
     "examples": [
       "Je m'attends à recevoir une réponse.",
       "Ils s'attendent à gagner."
@@ -249,6 +282,7 @@
   {
     "verb": "s’autoriser",
     "preposition": "à",
+    "translation": "to allow oneself to",
     "examples": [
       "Je m'autorise à prendre une pause.",
       "Elle s'autorise à manger un dessert."
@@ -257,6 +291,7 @@
   {
     "verb": "s’obstiner",
     "preposition": "à",
+    "translation": "to persist in",
     "examples": [
       "Il s'obstine à nier la vérité.",
       "Elle s'obstine à vouloir tout faire seule."
@@ -265,6 +300,7 @@
   {
     "verb": "parler",
     "preposition": "à",
+    "translation": "to speak to",
     "examples": [
       "Je parle à mon ami.",
       "Elle parle à son professeur."
@@ -273,6 +309,7 @@
   {
     "verb": "avoir besoin",
     "preposition": "de",
+    "translation": "to need",
     "examples": [
       "J'ai besoin de dormir.",
       "Elle a besoin de toi."
@@ -281,6 +318,7 @@
   {
     "verb": "penser",
     "preposition": "à",
+    "translation": "to think of",
     "examples": [
       "Je pense à toi.",
       "Nous pensons à nos vacances."
@@ -289,6 +327,7 @@
   {
     "verb": "se souvenir",
     "preposition": "de",
+    "translation": "to remember",
     "examples": [
       "Je me souviens de ce jour.",
       "Ils se souviennent de leur enfance."
@@ -297,6 +336,7 @@
   {
     "verb": "répondre",
     "preposition": "à",
+    "translation": "to answer",
     "examples": [
       "Il répond à la question.",
       "Nous répondons à l'invitation."
@@ -305,6 +345,7 @@
   {
     "verb": "s'occuper",
     "preposition": "de",
+    "translation": "to take care of",
     "examples": [
       "Je m'occupe de mes enfants.",
       "Elle s'occupe de la cuisine."
@@ -313,6 +354,7 @@
   {
     "verb": "acheter",
     "preposition": "à",
+    "translation": "to buy for",
     "examples": [
       "J'ai acheté un cadeau à Pierre.",
       "Elle achète des fleurs à sa mère."
@@ -321,6 +363,7 @@
   {
     "verb": "arracher",
     "preposition": "à",
+    "translation": "to snatch from",
     "examples": [
       "Il a arraché le jouet à son frère.",
       "On lui a arraché son sac à main."
@@ -329,6 +372,7 @@
   {
     "verb": "conseiller",
     "preposition": "à",
+    "translation": "to advise",
     "examples": [
       "Je conseille à Pierre de partir tôt.",
       "Elle conseille à ses amis de lire ce livre."
@@ -353,6 +397,7 @@
   {
     "verb": "désobéir",
     "preposition": "à",
+    "translation": "to disobey",
     "examples": [
       "Il a désobéi à ses parents.",
       "Elle désobéit à la règle."
@@ -361,6 +406,7 @@
   {
     "verb": "dire",
     "preposition": "à",
+    "translation": "to tell",
     "examples": [
       "Je dis la vérité à Pierre.",
       "Elle dit bonjour à tout le monde."
@@ -369,6 +415,7 @@
   {
     "verb": "donner",
     "preposition": "à",
+    "translation": "to give",
     "examples": [
       "Il donne un livre à Pierre.",
       "Nous donnons des conseils à nos amis."
@@ -377,6 +424,7 @@
   {
     "verb": "écrire",
     "preposition": "à",
+    "translation": "to write to",
     "examples": [
       "J'écris une lettre à Pierre.",
       "Elle écrit à sa grand-mère chaque semaine."
@@ -385,6 +433,7 @@
   {
     "verb": "emprunter",
     "preposition": "à",
+    "translation": "to borrow from",
     "examples": [
       "J'emprunte un stylo à Pierre.",
       "Elle emprunte de l'argent à sa sœur."
@@ -393,6 +442,7 @@
   {
     "verb": "envoyer",
     "preposition": "à",
+    "translation": "to send to",
     "examples": [
       "J'envoie un colis à Pierre.",
       "Elle envoie une carte à son ami."
@@ -401,6 +451,7 @@
   {
     "verb": "être",
     "preposition": "à",
+    "translation": "to belong to",
     "examples": [
       "Ce livre est à Pierre.",
       "La voiture est à moi."
@@ -409,6 +460,7 @@
   {
     "verb": "faire attention",
     "preposition": "à",
+    "translation": "to pay attention to",
     "examples": [
       "Fais attention à Pierre !",
       "Elle fait attention à la route."
@@ -417,6 +469,7 @@
   {
     "verb": "goûter",
     "preposition": "à",
+    "translation": "to taste",
     "examples": [
       "Il goûte à la confiture.",
       "Nous avons goûté à ce plat exotique."
@@ -610,6 +663,7 @@
   {
     "verb": "accepter",
     "preposition": "de",
+    "translation": "to accept to",
     "examples": [
       "Il accepte de partir cet hiver avec nous.",
       "Elle accepte de faire un effort."
@@ -618,6 +672,7 @@
   {
     "verb": "accuser",
     "preposition": "de",
+    "translation": "to accuse of",
     "examples": [
       "Il accuse son frère de mentir.",
       "Elle accuse Paul de voler son stylo."
@@ -626,6 +681,7 @@
   {
     "verb": "arrêter",
     "preposition": "de",
+    "translation": "to stop",
     "examples": [
       "Il arrête de fumer.",
       "Nous arrêtons de parler."
@@ -634,6 +690,7 @@
   {
     "verb": "avoir peur",
     "preposition": "de",
+    "translation": "to be afraid of",
     "examples": [
       "J'ai peur de tomber.",
       "Elle a peur de parler en public."
@@ -642,6 +699,7 @@
   {
     "verb": "avoir envie",
     "preposition": "de",
+    "translation": "to feel like",
     "examples": [
       "J'ai envie de sortir ce soir.",
       "Ils ont envie de voyager."
@@ -658,6 +716,7 @@
   {
     "verb": "avoir l’air",
     "preposition": "de",
+    "translation": "to seem to",
     "examples": [
       "Il a l'air de comprendre.",
       "Elle a l'air de s'ennuyer."
@@ -666,6 +725,7 @@
   {
     "verb": "avoir l’intention",
     "preposition": "de",
+    "translation": "to intend to",
     "examples": [
       "J'ai l'intention de partir tôt.",
       "Ils ont l'intention de déménager."
@@ -674,6 +734,7 @@
   {
     "verb": "avoir raison",
     "preposition": "de",
+    "translation": "to be right to",
     "examples": [
       "Tu as raison de protester.",
       "Elle a raison de s'inquiéter."
@@ -682,6 +743,7 @@
   {
     "verb": "avoir tort",
     "preposition": "de",
+    "translation": "to be wrong to",
     "examples": [
       "Il a tort de mentir.",
       "Vous avez tort de vous fâcher."
@@ -1010,6 +1072,7 @@
   {
     "verb": "accourir",
     "preposition": "",
+    "translation": "to rush to",
     "examples": [
       "Les pompiers accoururent à l'appel."
     ]
@@ -1321,6 +1384,7 @@
   {
     "verb": "adorer",
     "preposition": "",
+    "translation": "to love",
     "examples": [
       "J'adore voyager.",
       "Elle adore chanter sous la douche."
@@ -1329,6 +1393,7 @@
   {
     "verb": "aimer",
     "preposition": "",
+    "translation": "to like",
     "examples": [
       "J'aime lire le soir.",
       "Ils aiment jouer au football."
@@ -1337,6 +1402,7 @@
   {
     "verb": "aimer mieux",
     "preposition": "",
+    "translation": "to prefer",
     "examples": [
       "J'aime mieux rester à la maison.",
       "Elle aime mieux travailler seule."
@@ -1345,6 +1411,7 @@
   {
     "verb": "aller",
     "preposition": "",
+    "translation": "to go",
     "examples": [
       "Je vais partir demain.",
       "Nous allons étudier ensemble."
@@ -1353,6 +1420,7 @@
   {
     "verb": "avouer",
     "preposition": "",
+    "translation": "to admit",
     "examples": [
       "Il avoue avoir menti.",
       "Elle avoue ne pas comprendre."
@@ -1361,6 +1429,7 @@
   {
     "verb": "compter",
     "preposition": "",
+    "translation": "to plan to",
     "examples": [
       "Je compte voyager cet été.",
       "Ils comptent acheter une maison."
@@ -1369,6 +1438,7 @@
   {
     "verb": "courir",
     "preposition": "",
+    "translation": "to run",
     "examples": [
       "Il court chercher de l'aide.",
       "Elle court attraper le bus."
@@ -1377,6 +1447,7 @@
   {
     "verb": "désirer",
     "preposition": "",
+    "translation": "to desire",
     "examples": [
       "Je désire apprendre le français.",
       "Elle désire changer de travail."
@@ -1385,6 +1456,7 @@
   {
     "verb": "détester",
     "preposition": "",
+    "translation": "to hate",
     "examples": [
       "Je déteste attendre.",
       "Il déteste se lever tôt."
@@ -1393,6 +1465,7 @@
   {
     "verb": "devoir",
     "preposition": "",
+    "translation": "to have to",
     "examples": [
       "Je dois partir maintenant.",
       "Nous devons finir ce projet."
@@ -1401,6 +1474,7 @@
   {
     "verb": "écouter",
     "preposition": "",
+    "translation": "to listen to",
     "examples": [
       "J'écoute Paul chanter.",
       "Elle écoute les enfants jouer."
@@ -1409,6 +1483,7 @@
   {
     "verb": "emmener",
     "preposition": "",
+    "translation": "to take",
     "examples": [
       "J'emmène mon frère voir le film.",
       "Elle emmène sa fille faire du shopping."
@@ -1417,6 +1492,7 @@
   {
     "verb": "envoyer",
     "preposition": "",
+    "translation": "to send",
     "examples": [
       "J'envoie Marie acheter du pain.",
       "Il envoie son fils chercher de l'eau."
@@ -1425,6 +1501,7 @@
   {
     "verb": "espérer",
     "preposition": "",
+    "translation": "to hope to",
     "examples": [
       "J'espère réussir l'examen.",
       "Elle espère trouver un emploi."
@@ -1433,6 +1510,7 @@
   {
     "verb": "être censé",
     "preposition": "",
+    "translation": "to be supposed to",
     "examples": [
       "Je suis censé finir ce travail.",
       "Ils sont censés arriver à midi."
@@ -1441,6 +1519,7 @@
   {
     "verb": "faire",
     "preposition": "",
+    "translation": "to have done",
     "examples": [
       "Je fais réparer ma voiture.",
       "Elle fait laver les vitres."
@@ -1449,6 +1528,7 @@
   {
     "verb": "falloir",
     "preposition": "",
+    "translation": "to be necessary to",
     "examples": [
       "Il faut partir maintenant.",
       "Il faut étudier pour réussir."
@@ -1457,6 +1537,7 @@
   {
     "verb": "laisser",
     "preposition": "",
+    "translation": "to let",
     "examples": [
       "Je laisse Paul parler.",
       "Elle laisse les enfants jouer dehors."
@@ -1465,6 +1546,7 @@
   {
     "verb": "oser",
     "preposition": "",
+    "translation": "to dare to",
     "examples": [
       "Il ose parler en public.",
       "Elle ose dire la vérité."
@@ -1473,6 +1555,7 @@
   {
     "verb": "paraître",
     "preposition": "",
+    "translation": "to seem to",
     "examples": [
       "Il paraît être fatigué.",
       "Elle paraît comprendre la situation."
@@ -1481,6 +1564,7 @@
   {
     "verb": "penser",
     "preposition": "",
+    "translation": "to think of",
     "examples": [
       "Je pense partir demain.",
       "Elle pense changer de travail."
@@ -1489,6 +1573,7 @@
   {
     "verb": "pouvoir",
     "preposition": "",
+    "translation": "to be able to",
     "examples": [
       "Je peux venir ce soir.",
       "Ils peuvent finir le projet."
@@ -1497,6 +1582,7 @@
   {
     "verb": "préférer",
     "preposition": "",
+    "translation": "to prefer",
     "examples": [
       "Je préfère rester ici.",
       "Elle préfère travailler seule."
@@ -1505,6 +1591,7 @@
   {
     "verb": "prétendre",
     "preposition": "",
+    "translation": "to claim to",
     "examples": [
       "Il prétend tout savoir.",
       "Elle prétend être malade."
@@ -1513,6 +1600,7 @@
   {
     "verb": "regarder",
     "preposition": "",
+    "translation": "to watch",
     "examples": [
       "Je regarde Paul jouer.",
       "Elle regarde les enfants courir."
@@ -1521,6 +1609,7 @@
   {
     "verb": "savoir",
     "preposition": "",
+    "translation": "to know how to",
     "examples": [
       "Je sais parler anglais.",
       "Elle sait nager."
@@ -1529,6 +1618,7 @@
   {
     "verb": "sembler",
     "preposition": "",
+    "translation": "to seem to",
     "examples": [
       "Il semble comprendre.",
       "Elle semble hésiter."
@@ -1537,6 +1627,7 @@
   {
     "verb": "souhaiter",
     "preposition": "",
+    "translation": "to wish to",
     "examples": [
       "Je souhaite partir en vacances.",
       "Elle souhaite apprendre le piano."
@@ -1545,6 +1636,7 @@
   {
     "verb": "venir",
     "preposition": "",
+    "translation": "to come",
     "examples": [
       "Je viens aider mon ami.",
       "Elle vient chercher ses enfants."
@@ -1553,6 +1645,7 @@
   {
     "verb": "vouloir",
     "preposition": "",
+    "translation": "to want to",
     "examples": [
       "Je veux réussir.",
       "Ils veulent partir tôt."
@@ -1562,6 +1655,7 @@
   {
     "verb": "monter",
     "preposition": "",
+    "translation": "to go up",
     "examples": [
       "Je vais monter voir ce qu'il se passe.",
       "Ils montent chercher leurs affaires."
@@ -1570,6 +1664,7 @@
   {
     "verb": "descendre",
     "preposition": "",
+    "translation": "to go down",
     "examples": [
       "Elle descend acheter du pain.",
       "Nous descendons prendre l'air."
@@ -1578,6 +1673,7 @@
   {
     "verb": "rentrer",
     "preposition": "",
+    "translation": "to return",
     "examples": [
       "Il rentre travailler.",
       "Je rentre chercher mon livre."
@@ -1586,6 +1682,7 @@
   {
     "verb": "aller",
     "preposition": "",
+    "translation": "to go",
     "examples": [
       "Je vais étudier à la bibliothèque.",
       "Nous allons voir un film."
@@ -1594,6 +1691,7 @@
   {
     "verb": "retourner",
     "preposition": "",
+    "translation": "to return",
     "examples": [
       "Elle retourne chercher son sac.",
       "Je retourne travailler après le déjeuner."
@@ -1602,6 +1700,7 @@
   {
     "verb": "sortir",
     "preposition": "",
+    "translation": "to go out",
     "examples": [
       "Il sort acheter du lait.",
       "Nous sortons prendre un café."
@@ -1618,14 +1717,26 @@
   {
     "verb": "manger",
     "preposition": "",
+    "translation": "to eat",
     "examples": [
       "Je mange pour vivre.",
       "Elle mange en travaillant."
     ]
   },
   {
+    "verb": "abaisser",
+    "preposition": "",
+    "translation": "to lower",
+    "examples": [
+      "Il abaisse la voix pour ne pas déranger.",
+      "Elle abaisse les stores pour faire de l'ombre."
+    ]
+  },
+
+  {
     "verb": "travailler",
     "preposition": "",
+    "translation": "to work",
     "examples": [
       "Je travaille pour réussir.",
       "Il travaille en écoutant de la musique."

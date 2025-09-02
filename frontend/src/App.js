@@ -107,7 +107,7 @@ function App() {
                   <Typography variant="h6" fontWeight={600}>
                     {verb.verb} <Chip label={verb.preposition} size="small" color="primary" sx={{ ml: 1 }} />
                   </Typography>
-                  <Typography variant="h6" fontWeight={400}>
+                  <Typography variant="h7" fontWeight={400}>
                     {verb.translation}
                   </Typography>
                   <Box sx={{ mt: 1 }}>
